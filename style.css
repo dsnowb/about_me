@@ -23,6 +23,7 @@ a:hover {
 }
 
 footer {
+  margin-left: -8px; /*I'm guessing that I need to do this because of the default browser style */
   position: fixed;
   width: 100%;
   background-color: #bbb;
