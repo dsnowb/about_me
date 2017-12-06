@@ -1,0 +1,29 @@
+body {
+  font-family: Courier, monospace;
+  text-align: center;
+}
+header {
+  font-size: 3em;
+}
+
+p:first-child {
+  font-size: 2.5em;
+  color: #ff7777;
+}
+
+a {
+  color: #777777;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #882222;
+  text-decoration: underline;
+}
+
+footer {
+  position: fixed;
+  width: 100%;
+  background-color: #bbb;
+  bottom: 0px;
+}
